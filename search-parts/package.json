@@ -47,7 +47,7 @@
         "jspath": "^0.4.0",
         "markdown-it": "12.3.2",
         "moment": "2.29.4",
-        "office-ui-fabric-react": "7.185.7",
+        "office-ui-fabric-react": "7.204.0",
         "react": "16.13.1",
         "react-ace": "5.8.0",
         "react-dom": "16.13.1",
